@@ -1,0 +1,41 @@
+
+
+/*------------------------------------------------------------------------------Main color variables */
+
+$color-base:						#ffffff;
+$color-primary: 					#9189FF; 
+
+$color-bg:                          #191C33;
+
+$color-button-form:                 #9F6EC8;
+
+$color-field:                       #473261;
+$color-focus-field:                 #7a5d9d;
+
+
+
+/*------------------------------------------------------------------------------Font base */
+
+$font-size-base: 		     13px;
+$font-family-base: 		     'arial';
+$font-family-light:   		 'arial';
+
+
+/*------------------------------------------------------------------------------Font size */
+
+$font-size-h1: 40px;
+$font-size-h2: 40px;
+$font-size-h3: 32px;
+$font-size-h4: 30px;
+$font-size-h5: 22px;
+$font-size-h6: 20px;
+
+/*------------------------------------------------------------------------------Breakpoints */
+
+$screen-xxs-min: 	 400px;
+$screen-xs-min: 	 560px;
+$screen-sm-min: 	 768px;
+$screen-md-min: 	 992px;
+$screen-l-min: 		1199px;
+$screen-lg-min: 	1200px;
+$screen-xl-min: 	1280px;
